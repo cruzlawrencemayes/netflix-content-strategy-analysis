@@ -28,6 +28,41 @@ Streaming platforms rely heavily on viewer engagement and content strategy to re
 - Content strategy shifted toward globally diverse and serialized content.
 - Visualization dashboards helped identify trends that may support future content investment decisions.
 
+## Dashboard Visualizations
+
+### Movies vs TV Shows Over Time
+Visualization showing Netflix’s rapid increase in both movie and TV show releases between 2015–2020, with especially strong growth in serialized TV content.
+
+![Movies vs TV Shows Over Time](images/movies-vs-tvshows-over-time.png)
+
+---
+
+### Genre Trends Over Time
+Line chart highlighting growth trends among Netflix’s most popular genres across multiple years.
+
+![Genre Trends Over Time](images/genre-trends-over-time.png)
+
+---
+
+### Genre Duration vs Volume
+Scatterplot comparing average runtime and content volume across major Netflix genres.
+
+![Genre Duration vs Volume](images/genre-duration-vs-volume.png)
+
+---
+
+### Average Runtime by Genre
+Visualization analyzing average movie runtimes across Netflix genres between 2015–2020.
+
+![Average Runtime by Genre](images/average-runtime-by-genre.png)
+
+---
+
+### Top Genres by Country
+Geographic visualization showing dominant Netflix genres across different countries and regions.
+
+![Top Genres by Country](images/top-genres-by-country.png)
+
 ## Repository Structure
 ```text
 images/               -> Dashboard screenshots and visualizations
